@@ -2,7 +2,7 @@
 A simple meal calorie tracker using Vanilla Javascript. Module design pattern is used.
 
 ---
-# Students, here 👇 is the note from the class
+## Note from the class. Please check
 
 ---
 

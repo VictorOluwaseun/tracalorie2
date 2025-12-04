@@ -1,7 +1,7 @@
 # tracalorie2
 A simple meal calorie tracker using Vanilla Javascript. Module design pattern is used.
 
----
+
 ## Note from the class. Please check
 
 ---

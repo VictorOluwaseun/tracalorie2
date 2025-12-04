@@ -5,7 +5,6 @@ A simple meal calorie tracker using Vanilla Javascript. Module design pattern is
 ## Note from the class. Please check
 
 ---
-
 # TypeScript: When to Use **Type** vs **Interface**
 A complete guide to understanding when to choose **type aliases** and when to choose **interfaces** in modern TypeScript.
 
